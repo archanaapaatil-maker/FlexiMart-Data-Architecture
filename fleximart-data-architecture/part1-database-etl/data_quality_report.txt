@@ -1,0 +1,19 @@
+Data Quality Report
+
+Customers:
+- Records processed: 25
+- Duplicates removed: 1
+- Missing emails handled: 5
+- Records loaded: 24
+
+Products:
+- Records processed: 20
+- Missing prices handled: 3
+- Missing stock handled: 1
+- Records loaded: 20
+
+Sales:
+- Records processed: 40
+- Duplicates removed: 1
+- Missing IDs handled: 5
+- Records loaded: 39
